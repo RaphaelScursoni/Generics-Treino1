@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\bin\Debug\netcoreapp3.1\Generics-treino.exe
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\bin\Debug\netcoreapp3.1\Generics-treino.deps.json
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\bin\Debug\netcoreapp3.1\Generics-treino.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\bin\Debug\netcoreapp3.1\Generics-treino.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\bin\Debug\netcoreapp3.1\Generics-treino.dll
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\bin\Debug\netcoreapp3.1\Generics-treino.pdb
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\obj\Debug\netcoreapp3.1\Generics-treino.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\obj\Debug\netcoreapp3.1\Generics-treino.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\obj\Debug\netcoreapp3.1\Generics-treino.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\obj\Debug\netcoreapp3.1\Generics-treino.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\obj\Debug\netcoreapp3.1\Generics-treino.dll
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\obj\Debug\netcoreapp3.1\Generics-treino.pdb
+C:\Users\convencaoinfo10\source\repos\Generics-treino\Generics-treino\obj\Debug\netcoreapp3.1\Generics-treino.genruntimeconfig.cache
