@@ -4,13 +4,13 @@ using System.Text;
 
 namespace Generics_treino
 {
-    class PrintService
+    class PrintService<T>
     {
 
-        private object[] _values = new object[10];
+        private T[] _values = new T[10];
         private int _count = 0;
 
-        public void addValue (object value)
+        public void addValue (T value)
         {
             if (_count == 10)
             {
@@ -19,7 +19,7 @@ namespace Generics_treino
             _values[_count] = value;
             _count++;
         }
-        public object First()
+        public T First()
         {
             if (_count == 0)
             {

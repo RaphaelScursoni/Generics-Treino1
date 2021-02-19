@@ -6,7 +6,7 @@ namespace Generics_treino
     {
         static void Main(string[] args)
         {
-            PrintService printService = new PrintService();
+            PrintService<int> printService = new PrintService<int>();
 
             Console.Write("How many values? ");
             int n = int.Parse(Console.ReadLine());
@@ -17,6 +17,7 @@ namespace Generics_treino
                 printService.addValue(x);
 
             }
+
             int a = (int)printService.First();
             int b = a + 2;
             Console.WriteLine(b);
